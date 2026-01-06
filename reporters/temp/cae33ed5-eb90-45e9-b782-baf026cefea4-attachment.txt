@@ -1,0 +1,2 @@
+INFO     root:test_order_query.py:22 开始执行用例：参数正确查询成功
+INFO     root:test_order_query.py:25 {"timestamp":"2026-01-03T06:53:47.970+00:00","status":405,"error":"Method Not Allowed","path":"/admin/list"}
